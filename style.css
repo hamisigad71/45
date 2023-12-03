@@ -65,7 +65,7 @@ main{
 
 .movie img{
     width:100%;
-    padding-left: 1px;
+    padding-left: 0px;
 }
 
 .movie-info{
