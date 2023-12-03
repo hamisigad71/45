@@ -54,6 +54,7 @@ main{
 .movie {
     width: 100%;
     margin-bottom: 2rem;
+margin-right: 0rem;
 
     border-radius: 3px;
     box-shadow: 0.2px 4px 5px rgba(0,0,0,0.1);
